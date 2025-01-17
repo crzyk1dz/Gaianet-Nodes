@@ -27,10 +27,12 @@ gaianet nodes
 ```
 gaianet info
 ```
-# 8. Stop Nodes
+# 8. Balik ke home screen
+```
+CTRL+A+D di Keyboard
+```
+# 9. Stop Nodes
 ```
 gaianet stop
 ```
-
-
 - Trakteer buat buy Kopi : https://trakteer.id/brrrskuy/tip
