@@ -151,21 +151,3 @@ gaiabot/
 ├── data.txt
 └── README.md
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-If you encounter any issues or have questions:
-
-1. Check the error logs
-2. Verify your API keys and tokens
-3. Ensure all prerequisites are met
-4. Create an issue in the repository
-
