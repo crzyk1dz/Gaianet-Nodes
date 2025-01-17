@@ -35,7 +35,7 @@ gaianet stop
 ```
 
 
-# GaiaBOT - AI Chat Integration Forked from Galkurta/Gaia-BOT
+# GaiaBOT - AI Chat Integration Forked from [Galkurta/Gaia-BOT](https://github.com/Galkurta/Gaia-BOT)
 
 A Node.js application that integrates Groq and Gaianet AI services for interactive chat conversations about Paris tourism.
 
