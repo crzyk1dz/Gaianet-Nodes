@@ -19,7 +19,7 @@ gaianet init
 ```
 # 5. Start Nodes
 ```
-gaianet nodes
+gaianet start
 ```
 # 6. Copy https://0x.....gaia.domains to your browser
 ![image](https://github.com/user-attachments/assets/36912546-3be0-4256-9c5f-5234ab723ed4)
