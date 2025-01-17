@@ -1,7 +1,5 @@
 # Gaianet-Nodes Guides 
 
-- Buy VPS di : t.me/skuycloud
-
 # 1. Buat screen
 ```
 screen -S gaianet
@@ -35,4 +33,3 @@ CTRL+A+D di Keyboard
 ```
 gaianet stop
 ```
-- Trakteer buat buy Kopi : https://trakteer.id/brrrskuy/tip
